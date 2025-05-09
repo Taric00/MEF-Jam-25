@@ -1,0 +1,4 @@
+repository "MEF-Jam-25@Taric0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
