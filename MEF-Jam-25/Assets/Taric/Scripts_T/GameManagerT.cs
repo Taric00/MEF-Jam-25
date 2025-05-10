@@ -52,6 +52,7 @@ public class GameManagerT : MonoBehaviour
     {   
         Debug.Log("Miss");
     }
+
     //aþaðýyý ekledim
     //void Awake()
     //{

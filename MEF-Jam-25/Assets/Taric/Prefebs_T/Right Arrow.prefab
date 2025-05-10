@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8144769240531637839
+--- !u!1 &4302639315803368802
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,11 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3517399584318748917}
-  - component: {fileID: 366618721889110987}
-  - component: {fileID: 5536364697930820707}
-  - component: {fileID: 2982274055909689223}
-  - component: {fileID: 5087491220014076078}
+  - component: {fileID: 8963489434808686060}
+  - component: {fileID: 8565198539848166645}
+  - component: {fileID: 6328822596692546557}
+  - component: {fileID: 6413259168365468013}
+  - component: {fileID: -5335618462625199620}
+  - component: {fileID: -5570050694514425681}
   m_Layer: 0
   m_Name: Right Arrow
   m_TagString: Untagged
@@ -20,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3517399584318748917
+--- !u!4 &8963489434808686060
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8144769240531637839}
+  m_GameObject: {fileID: 4302639315803368802}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -3, y: 9, z: 0}
@@ -35,13 +36,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &366618721889110987
+--- !u!212 &8565198539848166645
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8144769240531637839}
+  m_GameObject: {fileID: 4302639315803368802}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -90,13 +91,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &5536364697930820707
+--- !u!58 &6328822596692546557
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8144769240531637839}
+  m_GameObject: {fileID: 4302639315803368802}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -126,13 +127,13 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 1.29
---- !u!114 &2982274055909689223
+--- !u!114 &6413259168365468013
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8144769240531637839}
+  m_GameObject: {fileID: 4302639315803368802}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90d432f82a397ad4291bf01ed37fba33, type: 3}
@@ -141,17 +142,30 @@ MonoBehaviour:
   canBePressed: 0
   keyToPress: 275
   hitEffect: {fileID: 8912506993886116895, guid: f5ba8bf0a0981f64da11270691a70bb6, type: 3}
---- !u!114 &5087491220014076078
+--- !u!114 &-5335618462625199620
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8144769240531637839}
+  m_GameObject: {fileID: 4302639315803368802}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea6871727254bbe4d90396c044a4ca03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  beatSpeed: 5
-  hasStarted: 1
+  beatTempo: 120
+  hasStarted: 0
+--- !u!114 &-5570050694514425681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4302639315803368802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed7b8dd35856ad84881dc6d661d95e3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  direction: 3
