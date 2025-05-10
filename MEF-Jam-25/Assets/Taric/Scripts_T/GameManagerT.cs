@@ -52,4 +52,9 @@ public class GameManagerT : MonoBehaviour
     {   
         Debug.Log("Miss");
     }
+    //aþaðýyý ekledim
+    //void Awake()
+    //{
+    //    BeatScroller.globalTempo = 2f; // örneðin 2 birim/saniye hýzý
+    //}
 }
