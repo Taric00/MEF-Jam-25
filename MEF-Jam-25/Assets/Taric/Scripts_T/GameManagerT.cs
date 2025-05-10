@@ -34,28 +34,25 @@ public class GameManagerT : MonoBehaviour
     {
         currentScore += scorePerNote;
         NoteHit();
+        Debug.Log("Normal Hit -10");
     }
 
     public void GoodHit()
     {
         currentScore += scorePerGoodNote;
         NoteHit();
+        Debug.Log("Normal Hit -20");
     }
 
     public void PerfectHit()
     {
         currentScore += scorePerPerfectNote;
         NoteHit();
+        Debug.Log("Normal Hit -50");
     }
 
     public void NoteMissed()
     {   
         Debug.Log("Miss");
     }
-
-    //aþaðýyý ekledim
-    //void Awake()
-    //{
-    //    BeatScroller.globalTempo = 2f; // örneðin 2 birim/saniye hýzý
-    //}
 }

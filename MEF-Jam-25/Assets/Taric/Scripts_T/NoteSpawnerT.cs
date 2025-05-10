@@ -16,24 +16,22 @@ public class NoteSpawnerT : MonoBehaviour
     public int totalNotesToSpawn = 10;
     public float spawnDelay = 1f;
 
-    private int spawnedNoteCount = 0;
 
-    private void Start()
+    public IEnumerator SpawnNotesRoutine(int totalNotesToSpawn, float spawnDelay, System.Action onComplete)
     {
-        StartCoroutine(SpawnNotesRoutine());
-    }
-
-    private IEnumerator SpawnNotesRoutine()
-    {
-        while (spawnedNoteCount < totalNotesToSpawn)
+        for (int i = 0; i < totalNotesToSpawn; i++)
         {
             SpawnRandomNote();
-            spawnedNoteCount++;
             yield return new WaitForSeconds(spawnDelay);
         }
 
         Debug.Log("Tüm notalar spawn edildi.");
-        // Buradan sonra: Skor hesaplama ve sýra geçiþi yapýlabilir
+        onComplete?.Invoke();
+    }
+
+    public void StartSpawning(int totalNotes, float delay, System.Action onComplete)
+    {
+        StartCoroutine(SpawnNotesRoutine(totalNotes, delay, onComplete));
     }
 
     public void SpawnRandomNote()

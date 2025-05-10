@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   beatTempo: 120
-  hasStarted: 0
+  hasStarted: 1
 --- !u!114 &281070758020498040
 MonoBehaviour:
   m_ObjectHideFlags: 0
