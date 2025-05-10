@@ -12,16 +12,17 @@ public class GameManagerT : MonoBehaviour
     public int scorePerPerfectNote = 175;
     [SerializeField] Text scoreText;
 
-
+    [Header("Health Settings")]
+    public float maxHealth = 100f;
+    public float currentHealth;
+    [SerializeField] private FloatingHealthBar healthBar;
     void Start()
     {
         instance = this;
         scoreText.text = "score: 0";
-    }
 
-    void Update()
-    {
-        
+        currentHealth = maxHealth;
+        healthBar.UpdateHealthbar(currentHealth, maxHealth);
     }
 
     public void NoteHit()
@@ -33,6 +34,7 @@ public class GameManagerT : MonoBehaviour
     public void NormalHit()
     {
         currentScore += scorePerNote;
+        DealDamage(10);
         NoteHit();
         Debug.Log("Normal Hit -10");
     }
@@ -40,19 +42,34 @@ public class GameManagerT : MonoBehaviour
     public void GoodHit()
     {
         currentScore += scorePerGoodNote;
+        DealDamage(20);
         NoteHit();
-        Debug.Log("Normal Hit -20");
+        Debug.Log("Good Hit -20");
     }
 
     public void PerfectHit()
     {
         currentScore += scorePerPerfectNote;
+        DealDamage(50);
         NoteHit();
-        Debug.Log("Normal Hit -50");
+        Debug.Log("Perfect Hit -50");
     }
 
     public void NoteMissed()
-    {   
+    {
         Debug.Log("Miss");
+    }
+
+    public void DealDamage(float damageAmount)
+    {
+        currentHealth -= damageAmount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        healthBar.UpdateHealthbar(currentHealth, maxHealth);
+
+        if (currentHealth <= 0)
+        {
+            Debug.Log("Karakter öldü!");
+            // Burada oyun bitirme mantýðý vs. eklenebilir
+        }
     }
 }

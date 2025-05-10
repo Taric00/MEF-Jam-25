@@ -31,22 +31,24 @@ public class NoteObject : MonoBehaviour
                 {
                     Debug.Log("normal Hit!");
                     GameManagerT.instance.NormalHit();
-                    Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                    GameObject effect = Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                    Destroy(effect, 3f);
                 }
 
                 else if (yPos > 0.3f)
                 {
                     Debug.Log("good Hit!");
                     GameManagerT.instance.GoodHit();
-                    Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
-
+                    GameObject effect = Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                    Destroy(effect, 3f);
                 }
 
                 else
                 {
                     Debug.Log("perfect Hit!");
                     GameManagerT.instance.PerfectHit();
-                    Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                    GameObject effect = Instantiate(hitEffect, transform.position, hitEffect.transform.rotation);
+                    Destroy(effect, 3f);
                 }
             }
         }
@@ -57,6 +59,7 @@ public class NoteObject : MonoBehaviour
         if(other.tag == "Activator")
         {
             canBePressed = true;
+            Destroy(gameObject, 5f);
         }
     }
 
@@ -66,6 +69,7 @@ public class NoteObject : MonoBehaviour
         {
             canBePressed = false;
             GameManagerT.instance.NoteMissed();
+            Destroy(gameObject, 5f);
         }
     }
 }
