@@ -1630,9 +1630,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 2
   m_MinValue: 0
-  m_MaxValue: 50
+  m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 15
+  m_Value: 0.354
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1648,6 +1648,7 @@ GameObject:
   - component: {fileID: 1698830064}
   - component: {fileID: 1698830063}
   - component: {fileID: 1698830062}
+  - component: {fileID: 1698830065}
   m_Layer: 5
   m_Name: ChangeTurnButton
   m_TagString: Untagged
@@ -1768,6 +1769,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1698830060}
   m_CullTransparentMesh: 1
+--- !u!114 &1698830065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698830060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 776be44f15034ef489d239e1fcaec148, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2038455638
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ public class NoteObject : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     void Update()
@@ -56,7 +56,7 @@ public class NoteObject : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "Activator")
+        if (other.tag == "Activator")
         {
             canBePressed = true;
             Destroy(gameObject, 5f);
