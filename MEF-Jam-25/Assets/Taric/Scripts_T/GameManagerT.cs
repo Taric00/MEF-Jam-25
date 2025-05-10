@@ -15,7 +15,7 @@ public class GameManagerT : MonoBehaviour
 
 
     [Header("Health Settings")]
-    public float maxHealth = 100f;
+    public float maxHealth = 10000f;
     public float currentHealth;
     [SerializeField] private FloatingHealthBar healthBar;
     void Start()
@@ -36,30 +36,30 @@ public class GameManagerT : MonoBehaviour
     public void NormalHit()
     {
         currentScore += scorePerNote;
-        DealDamage(10);
+        DealDamage(1);
         NoteHit();
-        Debug.Log("Normal Hit -10");
-        combatUI.DealDamage(10);  // sýra kimdeyse rakibin caný azalýr
+        Debug.Log("Normal Hit -1");
+        combatUI.DealDamage(1);  // sýra kimdeyse rakibin caný azalýr
 
     }
 
     public void GoodHit()
     {
         currentScore += scorePerGoodNote;
-        DealDamage(20);
+        DealDamage(2);
         NoteHit();
-        Debug.Log("Good Hit -20");
-        combatUI.DealDamage(20);
+        Debug.Log("Good Hit -2");
+        combatUI.DealDamage(2);
 
     }
 
     public void PerfectHit()
     {
         currentScore += scorePerPerfectNote;
-        DealDamage(50);
+        DealDamage(5);
         NoteHit();
-        Debug.Log("Perfect Hit -50");
-        combatUI.DealDamage(50);
+        Debug.Log("Perfect Hit -5");
+        combatUI.DealDamage(5);
 
     }
 

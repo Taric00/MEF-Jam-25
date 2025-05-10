@@ -8,7 +8,7 @@ public class BeatScroller : MonoBehaviour
 
     void Start()
     {
-        beatTempo = beatTempo / 60f;
+        beatTempo = beatTempo / 15f;
     }
 
     
