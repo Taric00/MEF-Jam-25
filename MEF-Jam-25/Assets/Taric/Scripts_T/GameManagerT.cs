@@ -11,6 +11,8 @@ public class GameManagerT : MonoBehaviour
     public int scorePerGoodNote = 125;
     public int scorePerPerfectNote = 175;
     [SerializeField] Text scoreText;
+    [SerializeField] private TurnCombatUI combatUI;
+
 
     [Header("Health Settings")]
     public float maxHealth = 100f;
@@ -37,6 +39,8 @@ public class GameManagerT : MonoBehaviour
         DealDamage(10);
         NoteHit();
         Debug.Log("Normal Hit -10");
+        combatUI.DealDamage(10);  // sýra kimdeyse rakibin caný azalýr
+
     }
 
     public void GoodHit()
@@ -45,6 +49,8 @@ public class GameManagerT : MonoBehaviour
         DealDamage(20);
         NoteHit();
         Debug.Log("Good Hit -20");
+        combatUI.DealDamage(20);
+
     }
 
     public void PerfectHit()
@@ -53,6 +59,8 @@ public class GameManagerT : MonoBehaviour
         DealDamage(50);
         NoteHit();
         Debug.Log("Perfect Hit -50");
+        combatUI.DealDamage(50);
+
     }
 
     public void NoteMissed()

@@ -377,9 +377,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a15ba0ee8c73b2d4c8c795e12081f1de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  notePrefab: {fileID: 443607518486887105, guid: 03a9dc9522da01340b8d6b97006f8d2d, type: 3}
-  leftSpawnPoint: {fileID: 1680373006}
-  rightSpawnPoint: {fileID: 1888708224}
+  notePrefabs: []
+  lanes: []
+  spawnInterval: 0.5
 --- !u!4 &1197112731
 Transform:
   m_ObjectHideFlags: 0
@@ -959,11 +959,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6523683851618148352, guid: 03a9dc9522da01340b8d6b97006f8d2d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6
+      value: -0.03
       objectReference: {fileID: 0}
     - target: {fileID: 6523683851618148352, guid: 03a9dc9522da01340b8d6b97006f8d2d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4
+      value: -0.09
       objectReference: {fileID: 0}
     - target: {fileID: 6523683851618148352, guid: 03a9dc9522da01340b8d6b97006f8d2d, type: 3}
       propertyPath: m_LocalPosition.z

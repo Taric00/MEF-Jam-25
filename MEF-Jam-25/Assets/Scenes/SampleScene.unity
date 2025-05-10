@@ -1149,7 +1149,7 @@ MonoBehaviour:
   currentScore: 0
   scorePerNote: 100
   scorePerGoodNote: 125
-  scorePerPerfectNote: 200
+  scorePerPerfectNote: 175
   scoreText: {fileID: 113335684}
   maxHealth: 100
   currentHealth: 0
