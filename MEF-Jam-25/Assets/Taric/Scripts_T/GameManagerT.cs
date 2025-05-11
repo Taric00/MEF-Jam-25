@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class GameManagerT : MonoBehaviour
 {
     public static GameManagerT instance;
+    public ShockWaveManager shockWaveManager;
 
     [Header("Score")]
     public int currentScore;
@@ -15,7 +16,7 @@ public class GameManagerT : MonoBehaviour
 
 
     [Header("Health Settings")]
-    public float maxHealth = 10000f;
+    public float maxHealth = 100f;
     public float currentHealth;
     [SerializeField] private FloatingHealthBar healthBar;
     void Start()
@@ -30,6 +31,11 @@ public class GameManagerT : MonoBehaviour
     public void NoteHit()
     {
         Debug.Log("Hit on Time");
+        //---Shader---//
+        if (shockWaveManager != null)
+        {
+            shockWaveManager.CallShockWave();
+        }
         scoreText.text = "score: " + currentScore;
     }
 
