@@ -19,7 +19,6 @@ public class ObjectTogglerT : MonoBehaviour
         objToToggle1.SetActive(isToggled);
         objToToggle2.SetActive(!isToggled);
 
-
         if (shockwaveObject != null)
         {
             atPositionA = !atPositionA;

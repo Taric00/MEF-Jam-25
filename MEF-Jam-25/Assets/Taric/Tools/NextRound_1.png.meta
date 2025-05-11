@@ -1,0 +1,2317 @@
+fileFormatVersion: 2
+guid: 730b2250b3a6173459cecac5c60fec1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4526851213031113280
+    second: NextRound_1_0
+  - first:
+      213: 9006822748846372851
+    second: NextRound_1_1
+  - first:
+      213: 2972007141783371799
+    second: NextRound_1_2
+  - first:
+      213: -3292581595136005406
+    second: NextRound_1_3
+  - first:
+      213: -7370386940597432680
+    second: NextRound_1_4
+  - first:
+      213: 3439352122826477229
+    second: NextRound_1_5
+  - first:
+      213: 9143157564977840418
+    second: NextRound_1_6
+  - first:
+      213: 2629240331742406924
+    second: NextRound_1_7
+  - first:
+      213: -6985033291547625206
+    second: NextRound_1_8
+  - first:
+      213: -1613587049477061700
+    second: NextRound_1_9
+  - first:
+      213: -8959628416429221061
+    second: NextRound_1_10
+  - first:
+      213: 7009415006142191777
+    second: NextRound_1_11
+  - first:
+      213: 3586827825250433764
+    second: NextRound_1_12
+  - first:
+      213: 3280841873011933378
+    second: NextRound_1_13
+  - first:
+      213: 4133526990460766005
+    second: NextRound_1_14
+  - first:
+      213: -6178910024021247005
+    second: NextRound_1_15
+  - first:
+      213: -2077127441410447550
+    second: NextRound_1_16
+  - first:
+      213: 886196655032389083
+    second: NextRound_1_17
+  - first:
+      213: 6506297198412342102
+    second: NextRound_1_18
+  - first:
+      213: 6780939354712816600
+    second: NextRound_1_19
+  - first:
+      213: 130231946724660772
+    second: NextRound_1_20
+  - first:
+      213: 1984542467884398827
+    second: NextRound_1_21
+  - first:
+      213: -4305444421129249840
+    second: NextRound_1_22
+  - first:
+      213: 5130995676898158561
+    second: NextRound_1_23
+  - first:
+      213: 5989763068342141769
+    second: NextRound_1_24
+  - first:
+      213: -4448329540459931556
+    second: NextRound_1_25
+  - first:
+      213: 610010685478328619
+    second: NextRound_1_26
+  - first:
+      213: -4185399890945972536
+    second: NextRound_1_27
+  - first:
+      213: -4012831761863650475
+    second: NextRound_1_28
+  - first:
+      213: -7152936536137515425
+    second: NextRound_1_29
+  - first:
+      213: -8131191360988786225
+    second: NextRound_1_30
+  - first:
+      213: 4920526150084958782
+    second: NextRound_1_31
+  - first:
+      213: 6947174389568276463
+    second: NextRound_1_32
+  - first:
+      213: 6889081642305079079
+    second: NextRound_1_33
+  - first:
+      213: -8212438884825020294
+    second: NextRound_1_34
+  - first:
+      213: -3036761483477235675
+    second: NextRound_1_35
+  - first:
+      213: 5750555296420535245
+    second: NextRound_1_36
+  - first:
+      213: 6730485099356109142
+    second: NextRound_1_37
+  - first:
+      213: 9146887219281610137
+    second: NextRound_1_38
+  - first:
+      213: -5125379383022192635
+    second: NextRound_1_39
+  - first:
+      213: 5903842528157630732
+    second: NextRound_1_40
+  - first:
+      213: -1297500635162513958
+    second: NextRound_1_41
+  - first:
+      213: -6559264985823218790
+    second: NextRound_1_42
+  - first:
+      213: 5297000043604044669
+    second: NextRound_1_43
+  - first:
+      213: -7184932433938301617
+    second: NextRound_1_44
+  - first:
+      213: 3032661380009500847
+    second: NextRound_1_45
+  - first:
+      213: 6725059890226079065
+    second: NextRound_1_46
+  - first:
+      213: -7218662154594106428
+    second: NextRound_1_47
+  - first:
+      213: 8178656960451676591
+    second: NextRound_1_48
+  - first:
+      213: 3452663235961412895
+    second: NextRound_1_49
+  - first:
+      213: -7191797096887838144
+    second: NextRound_1_50
+  - first:
+      213: -1002614478600820523
+    second: NextRound_1_51
+  - first:
+      213: -1071517710159897051
+    second: NextRound_1_52
+  - first:
+      213: -4899841365500377347
+    second: NextRound_1_53
+  - first:
+      213: 2319315238314839204
+    second: NextRound_1_54
+  - first:
+      213: -5551504455948390111
+    second: NextRound_1_55
+  - first:
+      213: -7472324358747658977
+    second: NextRound_1_56
+  - first:
+      213: 7520868768839598974
+    second: NextRound_1_57
+  - first:
+      213: -8750477181458327144
+    second: NextRound_1_58
+  - first:
+      213: 5034578910337567900
+    second: NextRound_1_59
+  - first:
+      213: 1935532918844749209
+    second: NextRound_1_60
+  - first:
+      213: 175019363063855197
+    second: NextRound_1_61
+  - first:
+      213: -4662786197571125216
+    second: NextRound_1_62
+  - first:
+      213: 5750971647016073001
+    second: NextRound_1_63
+  - first:
+      213: 1064767188139855972
+    second: NextRound_1_64
+  - first:
+      213: -8575264950729851343
+    second: NextRound_1_65
+  - first:
+      213: 4190042559074299908
+    second: NextRound_1_66
+  - first:
+      213: -9117039573412514633
+    second: NextRound_1_67
+  - first:
+      213: 5571400243480381489
+    second: NextRound_1_68
+  - first:
+      213: -8860527267005867583
+    second: NextRound_1_69
+  - first:
+      213: -2703664208509157812
+    second: NextRound_1_70
+  - first:
+      213: -1372167477299245875
+    second: NextRound_1_71
+  - first:
+      213: -1448908468144668550
+    second: NextRound_1_72
+  - first:
+      213: 7021096426491454708
+    second: NextRound_1_73
+  - first:
+      213: 1266708835751095374
+    second: NextRound_1_74
+  - first:
+      213: 7101945985468023539
+    second: NextRound_1_75
+  - first:
+      213: 249917626642805887
+    second: NextRound_1_76
+  - first:
+      213: 453036799590851385
+    second: NextRound_1_77
+  - first:
+      213: -5866933392668664525
+    second: NextRound_1_78
+  - first:
+      213: -2053193440505785240
+    second: NextRound_1_79
+  - first:
+      213: 835003797816529749
+    second: NextRound_1_80
+  - first:
+      213: -2213807389635941291
+    second: NextRound_1_81
+  - first:
+      213: 6157760294342043548
+    second: NextRound_1_82
+  - first:
+      213: 6780780346063594938
+    second: NextRound_1_83
+  - first:
+      213: -1612549770284209623
+    second: NextRound_1_84
+  - first:
+      213: 7392143220530281351
+    second: NextRound_1_85
+  - first:
+      213: -7446182638746146017
+    second: NextRound_1_86
+  - first:
+      213: 1491641290812594349
+    second: NextRound_1_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NextRound_1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 1522
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04204c7a13b92de30800000000000000
+      internalID: 4526851213031113280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1000
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f735e3e199aefc70800000000000000
+      internalID: 9006822748846372851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_2
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 971
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100ce3cfb0be3920800000000000000
+      internalID: 2972007141783371799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_3
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 975
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaedebeb766e42d0800000000000000
+      internalID: -3292581595136005406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 964
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0384a02027b990800000000000000
+      internalID: -7370386940597432680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 960
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daece8288880bbf20800000000000000
+      internalID: 3439352122826477229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_6
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 952
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210ee1ec5503ee70800000000000000
+      internalID: 9143157564977840418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_7
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 951
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e2a2c620fc7420800000000000000
+      internalID: 2629240331742406924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 948
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b609ca3d201f90800000000000000
+      internalID: -6985033291547625206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_9
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 938
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3cfbda0236b99e0800000000000000
+      internalID: -1613587049477061700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_10
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9d37ec6109a380800000000000000
+      internalID: -8959628416429221061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_11
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 941
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d5648fc1764160800000000000000
+      internalID: 7009415006142191777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_12
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 941
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf98a37e8f6c130800000000000000
+      internalID: 3586827825250433764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_13
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 945
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c08a150d44e78d20800000000000000
+      internalID: 3280841873011933378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_14
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 892
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53747efb5ec3d5930800000000000000
+      internalID: 4133526990460766005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 900
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfc17021a104aa0800000000000000
+      internalID: -6178910024021247005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 866
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a38dd89f8c23e0800000000000000
+      internalID: -2077127441410447550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 822
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd485899276c4c00800000000000000
+      internalID: 886196655032389083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_18
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653ac7284d20b4a50800000000000000
+      internalID: 6506297198412342102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 795
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbbf198a6cba1e50800000000000000
+      internalID: 6780939354712816600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_20
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4265eeaf34daec100800000000000000
+      internalID: 130231946724660772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_21
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be83de72cd28a8b10800000000000000
+      internalID: 1984542467884398827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 772
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db57663c1dff34c0800000000000000
+      internalID: -4305444421129249840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_23
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 767
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e764990265f43740800000000000000
+      internalID: 5130995676898158561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 762
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943894986c9ef1350800000000000000
+      internalID: 5989763068342141769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_25
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 753
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c585209e9db5442c0800000000000000
+      internalID: -4448329540459931556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 722
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29d0298c71377800800000000000000
+      internalID: 610010685478328619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e43179f87ae5c0800000000000000
+      internalID: -4185399890945972536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 648
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55356b206ce8f48c0800000000000000
+      internalID: -4012831761863650475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 664
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e3c964e1aabbc90800000000000000
+      internalID: -7152936536137515425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_30
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 659
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d98fb984382f80800000000000000
+      internalID: -8131191360988786225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_31
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 635
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a95d3a678394440800000000000000
+      internalID: 4920526150084958782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_32
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 615
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe788e2bc42596060800000000000000
+      internalID: 6947174389568276463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_33
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 590
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7274246f04fea9f50800000000000000
+      internalID: 6889081642305079079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_34
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78466a785e870e80800000000000000
+      internalID: -8212438884825020294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 587
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52840cd25814bd5d0800000000000000
+      internalID: -3036761483477235675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_36
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb136803931ecf40800000000000000
+      internalID: 5750555296420535245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_37
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 581
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6593e29c98c776d50800000000000000
+      internalID: 6730485099356109142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 578
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99547d1b67540fe70800000000000000
+      internalID: 9146887219281610137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_39
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 576
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508f9d74b9efed8b0800000000000000
+      internalID: -5125379383022192635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010eacdf79aee150800000000000000
+      internalID: 5903842528157630732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_41
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add6b49fb0a5efde0800000000000000
+      internalID: -1297500635162513958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 560
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9379547f3fc8f4a0800000000000000
+      internalID: -6559264985823218790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 538
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6f369979b28940800000000000000
+      internalID: 5297000043604044669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_44
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 547
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dbcebc40ef94c90800000000000000
+      internalID: -7184932433938301617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 516
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa02387157d261a20800000000000000
+      internalID: 3032661380009500847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 508
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955272ad656345d50800000000000000
+      internalID: 6725059890226079065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_47
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 501
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ccd9340922db90800000000000000
+      internalID: -7218662154594106428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98f735c2d608170800000000000000
+      internalID: 8178656960451676591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd78c8be25aef20800000000000000
+      internalID: 3452663235961412895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 457
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a9057e4aa913c90800000000000000
+      internalID: -7191797096887838144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 437
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8a55c917ff512f0800000000000000
+      internalID: -1002614478600820523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e116bd1543121f0800000000000000
+      internalID: -1071517710159897051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c5911d34400cb0800000000000000
+      internalID: -4899841365500377347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_54
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 433
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac08e5cbecdf2020800000000000000
+      internalID: 2319315238314839204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b2364c1815f2b0800000000000000
+      internalID: -5551504455948390111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_56
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15e856f598fc4890800000000000000
+      internalID: -7472324358747658977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 393
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7383094c4e7f5860800000000000000
+      internalID: 7520868768839598974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_58
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 400
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899d3009d5f009680800000000000000
+      internalID: -8750477181458327144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c085838da6ed540800000000000000
+      internalID: 5034578910337567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_60
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 371
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f0de4fe46cda10800000000000000
+      internalID: 1935532918844749209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_61
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 369
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587c34fe2bcd6200800000000000000
+      internalID: 175019363063855197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020cd2668a47a4fb0800000000000000
+      internalID: -4662786197571125216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_63
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 340
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277cb53e3e8fcf40800000000000000
+      internalID: 5750971647016073001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_64
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605191cd10d6ce00800000000000000
+      internalID: 1064767188139855972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb3e406f98ef880800000000000000
+      internalID: -8575264950729851343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_66
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 283
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4007467f185062a30800000000000000
+      internalID: 4190042559074299908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_67
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b47197efc4c97180800000000000000
+      internalID: -9117039573412514633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384c2eb007915d40800000000000000
+      internalID: 5571400243480381489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_69
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d37f4565190580800000000000000
+      internalID: -8860527267005867583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_70
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 226
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ebfdb1ab7aa7ad0800000000000000
+      internalID: -2703664208509157812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_71
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0c3f03f415fce0800000000000000
+      internalID: -1372167477299245875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708e24cc6174ebe0800000000000000
+      internalID: -1448908468144668550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a9c22002ff6160800000000000000
+      internalID: 7021096426491454708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 74
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ceacc89f0449110800000000000000
+      internalID: 1266708835751095374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f245ddfe3e2f8260800000000000000
+      internalID: 7101945985468023539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74372fd1c2e77300800000000000000
+      internalID: 249917626642805887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 59
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933eac5a192894600800000000000000
+      internalID: 453036799590851385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_78
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 73
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5b19e927749ea0800000000000000
+      internalID: -5866933392668664525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649d73b1779183e0800000000000000
+      internalID: -2053193440505785240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d4f2b787869b00800000000000000
+      internalID: 835003797816529749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_81
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6d9b88e9f641e0800000000000000
+      internalID: -2213807389635941291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97234ccc52c47550800000000000000
+      internalID: 6157760294342043548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab522137ccb2a1e50800000000000000
+      internalID: 6780780346063594938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_84
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a629f07821f99e0800000000000000
+      internalID: -1612549770284209623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_85
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf484081b269660800000000000000
+      internalID: 7392143220530281351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_86
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bead47758d9a890800000000000000
+      internalID: -7446182638746146017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextRound_1_87
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 24
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da89037d9df53b410800000000000000
+      internalID: 1491641290812594349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
