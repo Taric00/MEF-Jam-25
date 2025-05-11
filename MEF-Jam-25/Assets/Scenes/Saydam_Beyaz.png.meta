@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: acc78f558859a2943b1c118133691d91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6989817187273621442
+    second: Saydam_Beyaz_0
+  - first:
+      213: 2393646387096762322
+    second: Saydam_Beyaz_1
+  - first:
+      213: 8693866857834734003
+    second: Saydam_Beyaz_2
+  - first:
+      213: -2022884135853549071
+    second: Saydam_Beyaz_3
+  - first:
+      213: -3881314678800314934
+    second: Saydam_Beyaz_4
+  - first:
+      213: -4746290465626927345
+    second: Saydam_Beyaz_5
+  - first:
+      213: -3485063710506403897
+    second: Saydam_Beyaz_6
+  - first:
+      213: -3809996210596655811
+    second: Saydam_Beyaz_7
+  - first:
+      213: 6819210371678959001
+    second: Saydam_Beyaz_8
+  - first:
+      213: 1174272426315565923
+    second: Saydam_Beyaz_9
+  - first:
+      213: -6815701397433259519
+    second: Saydam_Beyaz_10
+  - first:
+      213: 4312052737095368897
+    second: Saydam_Beyaz_11
+  - first:
+      213: -4417679923703542963
+    second: Saydam_Beyaz_12
+  - first:
+      213: 6246492956076637292
+    second: Saydam_Beyaz_13
+  - first:
+      213: -177257881281493352
+    second: Saydam_Beyaz_14
+  - first:
+      213: 6564294724620029090
+    second: Saydam_Beyaz_15
+  - first:
+      213: -8968151374268368609
+    second: Saydam_Beyaz_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saydam_Beyaz_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 250
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf3d5cb2b1d00160800000000000000
+      internalID: 6989817187273621442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7bcccf4b0f73120800000000000000
+      internalID: 2393646387096762322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 113
+        width: 43
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1e7c958d1d6a870800000000000000
+      internalID: 8693866857834734003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 113
+        width: 138
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f91dac98954de3e0800000000000000
+      internalID: -2022884135853549071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 249
+        width: 137
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd099c1ddcc22ac0800000000000000
+      internalID: -3881314678800314934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 249
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fcb7be7f9c12eb0800000000000000
+      internalID: -4746290465626927345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 249
+        width: 115
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c739ab150192afc0800000000000000
+      internalID: -3485063710506403897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 249
+        width: 144
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4dc7f1ac202bc0800000000000000
+      internalID: -3809996210596655811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 113
+        width: 126
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995759c04b3b2ae50800000000000000
+      internalID: 6819210371678959001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 113
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4318dc8adb4010800000000000000
+      internalID: 1174272426315565923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 113
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a6bdea0b3c961a0800000000000000
+      internalID: -6815701397433259519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 113
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0025f3e1d77db30800000000000000
+      internalID: 4312052737095368897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 206
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b8648e38f31b2c0800000000000000
+      internalID: -4417679923703542963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 113
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c7dea8f3000b650800000000000000
+      internalID: 6246492956076637292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 113
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896049865e04a8df0800000000000000
+      internalID: -177257881281493352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 113
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac82fdd54f091b50800000000000000
+      internalID: 6564294724620029090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saydam_Beyaz_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 113
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f197dc427d9ba8380800000000000000
+      internalID: -8968151374268368609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Saydam_Beyaz_0: 6989817187273621442
+      Saydam_Beyaz_1: 2393646387096762322
+      Saydam_Beyaz_10: -6815701397433259519
+      Saydam_Beyaz_11: 4312052737095368897
+      Saydam_Beyaz_12: -4417679923703542963
+      Saydam_Beyaz_13: 6246492956076637292
+      Saydam_Beyaz_14: -177257881281493352
+      Saydam_Beyaz_15: 6564294724620029090
+      Saydam_Beyaz_16: -8968151374268368609
+      Saydam_Beyaz_2: 8693866857834734003
+      Saydam_Beyaz_3: -2022884135853549071
+      Saydam_Beyaz_4: -3881314678800314934
+      Saydam_Beyaz_5: -4746290465626927345
+      Saydam_Beyaz_6: -3485063710506403897
+      Saydam_Beyaz_7: -3809996210596655811
+      Saydam_Beyaz_8: 6819210371678959001
+      Saydam_Beyaz_9: 1174272426315565923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

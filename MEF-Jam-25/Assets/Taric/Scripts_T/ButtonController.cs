@@ -2,25 +2,33 @@ using UnityEngine;
 
 public class ButtonController : MonoBehaviour
 {
-    private SpriteRenderer SpriteRenderer;
-    [SerializeField] private Sprite defaultImage, pressedImage;
-    public KeyCode KeyToPress;
-    void Start()
+    private SpriteRenderer spriteRenderer;
+
+    [Header("Tuþ Spriteleri")]
+    [SerializeField] private Sprite defaultImage;
+    [SerializeField] private Sprite pressedImage;
+
+    [Header("Tuþ Ayarlarý")]
+    public KeyCode keyToPress;
+
+    private void Start()
     {
-        SpriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        if(Input.GetKeyDown(KeyToPress))
+        if (Input.GetKeyDown(keyToPress))
         {
-            SpriteRenderer.sprite = pressedImage;
+            spriteRenderer.sprite = pressedImage;
+
+            // Ses çal
+            AudioManager.instance.PlayRandomButtonSound();
         }
 
-        if(Input.GetKeyUp(KeyToPress))
+        if (Input.GetKeyUp(keyToPress))
         {
-            SpriteRenderer.sprite = defaultImage;
+            spriteRenderer.sprite = defaultImage;
         }
     }
 }

@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
 
 public class GameManagerT : MonoBehaviour
 {
@@ -37,6 +38,7 @@ public class GameManagerT : MonoBehaviour
         {
             shockWaveManager.CallShockWave();
         }
+        AudioManager.instance.PlayRandomButtonSound();
         scoreText.text = "score: " + currentScore;
     }
 
@@ -46,6 +48,7 @@ public class GameManagerT : MonoBehaviour
         DealDamage(1);
         NoteHit();
         Debug.Log("Normal Hit -1");
+        AudioManager.instance.PlayRandomButtonSound();
         combatUI.DealDamage(1);  // sýra kimdeyse rakibin caný azalýr
 
     }
@@ -56,6 +59,7 @@ public class GameManagerT : MonoBehaviour
         DealDamage(2);
         NoteHit();
         Debug.Log("Good Hit -2");
+        AudioManager.instance.PlayRandomButtonSound();
         combatUI.DealDamage(2);
 
     }
@@ -66,6 +70,7 @@ public class GameManagerT : MonoBehaviour
         DealDamage(5);
         NoteHit();
         Debug.Log("Perfect Hit -5");
+        AudioManager.instance.PlayRandomButtonSound();
         combatUI.DealDamage(5);
 
     }
