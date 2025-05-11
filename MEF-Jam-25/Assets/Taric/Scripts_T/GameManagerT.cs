@@ -5,6 +5,7 @@ public class GameManagerT : MonoBehaviour
 {
     public static GameManagerT instance;
     public ShockWaveManager shockWaveManager;
+    public GameObject gameOverPanel;
 
     [Header("Score")]
     public int currentScore;
@@ -83,7 +84,7 @@ public class GameManagerT : MonoBehaviour
         if (currentHealth <= 0)
         {
             Debug.Log("Karakter öldü!");
-            // Burada oyun bitirme mantýðý vs. eklenebilir
+            gameOverPanel.SetActive(!gameOverPanel.activeSelf);
         }
     }
 }
