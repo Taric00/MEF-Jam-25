@@ -357,6 +357,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2309,7 +2387,95 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NextRound_1_0: 4526851213031113280
+      NextRound_1_1: 9006822748846372851
+      NextRound_1_10: -8959628416429221061
+      NextRound_1_11: 7009415006142191777
+      NextRound_1_12: 3586827825250433764
+      NextRound_1_13: 3280841873011933378
+      NextRound_1_14: 4133526990460766005
+      NextRound_1_15: -6178910024021247005
+      NextRound_1_16: -2077127441410447550
+      NextRound_1_17: 886196655032389083
+      NextRound_1_18: 6506297198412342102
+      NextRound_1_19: 6780939354712816600
+      NextRound_1_2: 2972007141783371799
+      NextRound_1_20: 130231946724660772
+      NextRound_1_21: 1984542467884398827
+      NextRound_1_22: -4305444421129249840
+      NextRound_1_23: 5130995676898158561
+      NextRound_1_24: 5989763068342141769
+      NextRound_1_25: -4448329540459931556
+      NextRound_1_26: 610010685478328619
+      NextRound_1_27: -4185399890945972536
+      NextRound_1_28: -4012831761863650475
+      NextRound_1_29: -7152936536137515425
+      NextRound_1_3: -3292581595136005406
+      NextRound_1_30: -8131191360988786225
+      NextRound_1_31: 4920526150084958782
+      NextRound_1_32: 6947174389568276463
+      NextRound_1_33: 6889081642305079079
+      NextRound_1_34: -8212438884825020294
+      NextRound_1_35: -3036761483477235675
+      NextRound_1_36: 5750555296420535245
+      NextRound_1_37: 6730485099356109142
+      NextRound_1_38: 9146887219281610137
+      NextRound_1_39: -5125379383022192635
+      NextRound_1_4: -7370386940597432680
+      NextRound_1_40: 5903842528157630732
+      NextRound_1_41: -1297500635162513958
+      NextRound_1_42: -6559264985823218790
+      NextRound_1_43: 5297000043604044669
+      NextRound_1_44: -7184932433938301617
+      NextRound_1_45: 3032661380009500847
+      NextRound_1_46: 6725059890226079065
+      NextRound_1_47: -7218662154594106428
+      NextRound_1_48: 8178656960451676591
+      NextRound_1_49: 3452663235961412895
+      NextRound_1_5: 3439352122826477229
+      NextRound_1_50: -7191797096887838144
+      NextRound_1_51: -1002614478600820523
+      NextRound_1_52: -1071517710159897051
+      NextRound_1_53: -4899841365500377347
+      NextRound_1_54: 2319315238314839204
+      NextRound_1_55: -5551504455948390111
+      NextRound_1_56: -7472324358747658977
+      NextRound_1_57: 7520868768839598974
+      NextRound_1_58: -8750477181458327144
+      NextRound_1_59: 5034578910337567900
+      NextRound_1_6: 9143157564977840418
+      NextRound_1_60: 1935532918844749209
+      NextRound_1_61: 175019363063855197
+      NextRound_1_62: -4662786197571125216
+      NextRound_1_63: 5750971647016073001
+      NextRound_1_64: 1064767188139855972
+      NextRound_1_65: -8575264950729851343
+      NextRound_1_66: 4190042559074299908
+      NextRound_1_67: -9117039573412514633
+      NextRound_1_68: 5571400243480381489
+      NextRound_1_69: -8860527267005867583
+      NextRound_1_7: 2629240331742406924
+      NextRound_1_70: -2703664208509157812
+      NextRound_1_71: -1372167477299245875
+      NextRound_1_72: -1448908468144668550
+      NextRound_1_73: 7021096426491454708
+      NextRound_1_74: 1266708835751095374
+      NextRound_1_75: 7101945985468023539
+      NextRound_1_76: 249917626642805887
+      NextRound_1_77: 453036799590851385
+      NextRound_1_78: -5866933392668664525
+      NextRound_1_79: -2053193440505785240
+      NextRound_1_8: -6985033291547625206
+      NextRound_1_80: 835003797816529749
+      NextRound_1_81: -2213807389635941291
+      NextRound_1_82: 6157760294342043548
+      NextRound_1_83: 6780780346063594938
+      NextRound_1_84: -1612549770284209623
+      NextRound_1_85: 7392143220530281351
+      NextRound_1_86: -7446182638746146017
+      NextRound_1_87: 1491641290812594349
+      NextRound_1_9: -1613587049477061700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
