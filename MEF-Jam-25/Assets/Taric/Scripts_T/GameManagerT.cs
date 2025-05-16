@@ -6,7 +6,7 @@ public class GameManagerT : MonoBehaviour
 {
     public static GameManagerT instance;
     public ShockWaveManager shockWaveManager;
-    public GameObject gameOverPanel;
+    //public GameObject gameOverPanel;
 
     [Header("Score")]
     public int currentScore;
@@ -45,7 +45,7 @@ public class GameManagerT : MonoBehaviour
     public void NormalHit()
     {
         currentScore += scorePerNote;
-        DealDamage(1);
+        //DealDamage(1);
         NoteHit();
         Debug.Log("Normal Hit -1");
         AudioManager.instance.PlayRandomButtonSound();
@@ -56,7 +56,7 @@ public class GameManagerT : MonoBehaviour
     public void GoodHit()
     {
         currentScore += scorePerGoodNote;
-        DealDamage(2);
+/*        DealDamage(2)*/;
         NoteHit();
         Debug.Log("Good Hit -2");
         AudioManager.instance.PlayRandomButtonSound();
@@ -67,7 +67,7 @@ public class GameManagerT : MonoBehaviour
     public void PerfectHit()
     {
         currentScore += scorePerPerfectNote;
-        DealDamage(5);
+        //DealDamage(5);
         NoteHit();
         Debug.Log("Perfect Hit -5");
         AudioManager.instance.PlayRandomButtonSound();
@@ -80,16 +80,16 @@ public class GameManagerT : MonoBehaviour
         Debug.Log("Miss");
     }
 
-    public void DealDamage(float damageAmount)
-    {
-        currentHealth -= damageAmount;
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
-        healthBar.UpdateHealthbar(currentHealth, maxHealth);
+    //public void DealDamage(float damageAmount)
+    //{
+    //    currentHealth -= damageAmount;
+    //    currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+    //    healthBar.UpdateHealthbar(currentHealth, maxHealth);
 
-        if (currentHealth <= 0)
-        {
-            Debug.Log("Karakter öldü!");
-            gameOverPanel.SetActive(!gameOverPanel.activeSelf);
-        }
-    }
+    //    //if (currentHealth <= 0)
+    //    //{
+    //    //    Debug.Log("Karakter öldü!");
+    //    //    gameOverPanel.SetActive(!gameOverPanel.activeSelf);
+    //    //}
+    //}
 }
