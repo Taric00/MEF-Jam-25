@@ -20,14 +20,15 @@ public class GameManagerT : MonoBehaviour
     [Header("Health Settings")]
     public float maxHealth = 100f;
     public float currentHealth;
-    [SerializeField] private FloatingHealthBar healthBar;
+    //[SerializeField] private FloatingHealthBar healthBar;
+
     void Start()
     {
         instance = this;
         scoreText.text = "score: 0";
 
         currentHealth = maxHealth;
-        healthBar.UpdateHealthbar(currentHealth, maxHealth);
+        //healthBar.UpdateHealthbar(currentHealth, maxHealth);
     }
 
     public void NoteHit()
