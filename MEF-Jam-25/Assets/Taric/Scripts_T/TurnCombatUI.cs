@@ -13,8 +13,6 @@ public class TurnCombatUI : MonoBehaviour
     private int player2Health;
     public bool isPlayer1Turn = true;
 
-    //---Lerp---//
-    private float lerpTime = 0.05f;
 
     void Start()
     {
@@ -36,13 +34,11 @@ public class TurnCombatUI : MonoBehaviour
         {
             player2Health -= amount;
             player2Health = Mathf.Clamp(player2Health, 0, maxHealth);
-            player2Bar.value = Mathf.Lerp(player2Bar.value, player2Health, lerpTime);
         }
         else
         {
             player1Health -= amount;
             player1Health = Mathf.Clamp(player1Health, 0, maxHealth);
-            player1Bar.value = Mathf.Lerp(player1Bar.value, player1Health, lerpTime);
         }
     }
 

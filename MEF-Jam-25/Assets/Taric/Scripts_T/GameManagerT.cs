@@ -31,7 +31,7 @@ public class GameManagerT : MonoBehaviour
         //healthBar.UpdateHealthbar(currentHealth, maxHealth);
     }
 
-    public void NoteHit()
+    public void ShockWave()
     {
         Debug.Log("Hit on Time");
         //---Shader---//
@@ -39,7 +39,7 @@ public class GameManagerT : MonoBehaviour
         {
             shockWaveManager.CallShockWave();
         }
-        AudioManager.instance.PlayRandomButtonSound();
+        //AudioManager.instance.PlayRandomButtonSound();
         scoreText.text = "score: " + currentScore;
     }
 
@@ -47,21 +47,21 @@ public class GameManagerT : MonoBehaviour
     {
         currentScore += scorePerNote;
         //DealDamage(1);
-        NoteHit();
-        Debug.Log("Normal Hit -1");
-        AudioManager.instance.PlayRandomButtonSound();
-        combatUI.DealDamage(1);  // sýra kimdeyse rakibin caný azalýr
+        ShockWave();
+        Debug.Log("Normal Hit -5");
+        //AudioManager.instance.PlayRandomButtonSound();
+        combatUI.DealDamage(5);
 
     }
 
     public void GoodHit()
     {
         currentScore += scorePerGoodNote;
-/*        DealDamage(2)*/;
-        NoteHit();
-        Debug.Log("Good Hit -2");
-        AudioManager.instance.PlayRandomButtonSound();
-        combatUI.DealDamage(2);
+        //DealDamage(2);
+        ShockWave();
+        Debug.Log("Good Hit -10");
+        //AudioManager.instance.PlayRandomButtonSound();
+        combatUI.DealDamage(10);
 
     }
 
@@ -69,10 +69,10 @@ public class GameManagerT : MonoBehaviour
     {
         currentScore += scorePerPerfectNote;
         //DealDamage(5);
-        NoteHit();
-        Debug.Log("Perfect Hit -5");
-        AudioManager.instance.PlayRandomButtonSound();
-        combatUI.DealDamage(5);
+        ShockWave();
+        Debug.Log("Perfect Hit -20");
+        //AudioManager.instance.PlayRandomButtonSound();
+        combatUI.DealDamage(20);
 
     }
 

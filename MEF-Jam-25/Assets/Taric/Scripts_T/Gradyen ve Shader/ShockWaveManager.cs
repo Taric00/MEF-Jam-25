@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class ShockWaveManager : MonoBehaviour
 {
-    [SerializeField] private float _shockWaveTime = 0.75f;
+    [SerializeField] private float _shockWaveTime = 0.05f;
 
     private Coroutine _shockWaveRoutine;
     private Material _material;

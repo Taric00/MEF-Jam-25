@@ -21,6 +21,7 @@ public class ObjectTogglerT : MonoBehaviour
 
         if (shockwaveObject != null)
         {
+            //shockwave aktif oldu//
             atPositionA = !atPositionA;
             shockwaveObject.transform.position = atPositionA ? (Vector3)positionA : (Vector3)positionB;
         }

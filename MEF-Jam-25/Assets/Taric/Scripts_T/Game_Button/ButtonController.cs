@@ -23,7 +23,7 @@ public class ButtonController : MonoBehaviour
             spriteRenderer.sprite = pressedImage;
 
             // Ses çal
-            AudioManager.instance.PlayRandomButtonSound();
+            //AudioManager.instance.PlayRandomButtonSound();
         }
 
         if (Input.GetKeyUp(keyToPress))
